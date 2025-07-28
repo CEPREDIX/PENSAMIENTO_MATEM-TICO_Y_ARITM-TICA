@@ -7,7 +7,7 @@
       {"text": "20", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS NUMÉRICAS"],
+    "tags": ["GENERAL"],
     "hint": "Separa la sucesión en posiciones pares e impares.",
     "explanation": "Posiciones impares: +4 (5, 9, 13, 17). Posiciones pares: +4 (2, 6, 10). Siguiente término: 10 + 4 = 14."
   },
@@ -19,7 +19,7 @@
       {"text": "61/32", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FRACCIONES"],
+    "tags": ["GENERAL"],
     "hint": "Observa el patrón en numeradores y denominadores por separado.",
     "explanation": "Numeradores: 2^(n+1)-1 (3,7,15,31,63). Denominadores: potencias de 2 (2,4,8,16,32). Término siguiente: 63/32."
   },
@@ -31,7 +31,7 @@
       {"text": "175", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "PROGRESIONES"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica cada término por un factor constante.",
     "explanation": "Cada término se multiplica por 3: 2×3=6, 6×3=18... Siguiente término: 54×3=162."
   },
@@ -43,7 +43,7 @@
       {"text": "2682879", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "PATRONES COMPLEJOS"],
+    "tags": ["GENERAL"],
     "hint": "Analiza bloques fijos y cómo rotan en la secuencia.",
     "explanation": "Alterna bloques '8226' y '2862'. Últimos 3 dígitos siguen patrón: 879→987→798→987. Término faltante: 2862879."
   },
@@ -55,7 +55,7 @@
       {"text": "475", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "PROGRESIONES"],
+    "tags": ["GENERAL"],
     "hint": "Identifica el factor de multiplicación entre términos consecutivos.",
     "explanation": "Cada término se multiplica por 5: 3×5=15, 15×5=75... Siguiente término: 75×5=375."
   },
@@ -67,7 +67,7 @@
       {"text": "49", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Observa la relación entre los números y sus posiciones.",
     "explanation": "Cuadrados perfectos: 1²=1, 2²=4... Siguiente término: 6²=36."
   },
@@ -79,7 +79,7 @@
       {"text": "11/12", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FRACCIONES"],
+    "tags": ["GENERAL"],
     "hint": "Examina cómo cambian numeradores y denominadores por separado.",
     "explanation": "Numeradores: impares (1,3,5,7,9). Denominadores: pares (2,4,6,8,10). Término siguiente: 9/10."
   },
@@ -91,7 +91,7 @@
       {"text": "12", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Cada término depende de los dos anteriores.",
     "explanation": "Secuencia de Fibonacci: 0+1=1, 1+1=2... Siguiente término: 5+8=13."
   },
@@ -103,7 +103,7 @@
       {"text": "216", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Relaciona cada término con el cubo de un número natural.",
     "explanation": "Cubos perfectos: 1³=1, 2³=8... Siguiente término: 5³=125."
   },
@@ -115,7 +115,7 @@
       {"text": "40", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Analiza las diferencias entre términos consecutivos.",
     "explanation": "Fórmula: n²+1 (empieza en n=1): 1²+1=2, 2²+1=5... Siguiente término: 6²+1=37."
   },
@@ -127,7 +127,7 @@
       {"text": "30", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "PROGRESIONES"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica cada término por un número fijo.",
     "explanation": "Cada término se multiplica por 2: 3×2=6, 6×2=12... Siguiente término: 24×2=48."
   },
@@ -139,7 +139,7 @@
       {"text": "25", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Suma números naturales consecutivos.",
     "explanation": "Secuencia triangular: 1+2=3, 3+3=6... Siguiente término: 15+6=21."
   },
@@ -151,7 +151,7 @@
       {"text": "1/32", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FRACCIONES"],
+    "tags": ["GENERAL"],
     "hint": "Observa cómo cambia el denominador.",
     "explanation": "Denominadores: multiplicados por 2 (3,6,12,24,48). Término siguiente: 1/48."
   },
@@ -163,7 +163,7 @@
       {"text": "12", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "PROGRESIONES"],
+    "tags": ["GENERAL"],
     "hint": "Divide cada término por un número fijo.",
     "explanation": "Cada término se divide entre 2: 128÷2=64, 64÷2=32... Siguiente término: 16÷2=8."
   },
@@ -175,7 +175,7 @@
       {"text": "56", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "POTENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Relaciona cada término con una potencia.",
     "explanation": "Potencias de 2: 2¹=2, 2²=4... Siguiente término: 2⁶=64."
   },
@@ -187,7 +187,7 @@
       {"text": "64", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Eleva al cuadrado números naturales consecutivos.",
     "explanation": "Cuadrados perfectos: 1²=1, 2²=4... Siguiente término: 7²=49."
   },
@@ -199,7 +199,7 @@
       {"text": "1/10", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FRACCIONES"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica el denominador por un número fijo.",
     "explanation": "Denominadores: multiplicados por 2 (1,2,4,8,16). Término siguiente: 1/16."
   },
@@ -211,7 +211,7 @@
       {"text": "65", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Usa la fórmula 2^n - 1.",
     "explanation": "Fórmula: 2^n-1 (empieza en n=1): 2¹-1=1, 2²-1=3... Siguiente término: 2⁶-1=63."
   },
@@ -223,7 +223,7 @@
       {"text": "20", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "POTENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Cada término es el doble del anterior.",
     "explanation": "Multiplicar por 2: 1×2=2, 2×2=4... Siguiente término: 16×2=32."
   },
@@ -235,7 +235,7 @@
       {"text": "729", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "POTENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Eleva cada número natural a una potencia relacionada con su posición.",
     "explanation": "Fórmula: n^n (empieza en n=1): 1¹=1, 2²=4... Siguiente término: 5⁵=3125."
   },
@@ -247,7 +247,7 @@
       {"text": "20", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Suma los dos términos anteriores.",
     "explanation": "Fibonacci: 1+1=2, 1+2=3... Siguiente término: 8+13=21."
   },
@@ -259,7 +259,7 @@
       {"text": "15", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "NÚMEROS PRIMOS"],
+    "tags": ["GENERAL"],
     "hint": "Secuencia de números divisibles solo por 1 y sí mismos.",
     "explanation": "Números primos en orden: 2, 3, 5, 7, 11, 13."
   },
@@ -271,7 +271,7 @@
       {"text": "64", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Eleva al cuadrado números naturales consecutivos.",
     "explanation": "Cuadrados perfectos: 1²=1, 2²=4... Siguiente término: 7²=49."
   },
@@ -283,7 +283,7 @@
       {"text": "360", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FACTORIALES"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica cada término por un número en aumento.",
     "explanation": "Factoriales: 1!=1, 2!=2, 3!=6... Siguiente término: 6!=720."
   },
@@ -295,7 +295,7 @@
       {"text": "30", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Suma números naturales consecutivos.",
     "explanation": "Secuencia triangular: 1+2=3, 3+3=6... Siguiente término: 21+7=28."
   },
@@ -307,7 +307,7 @@
       {"text": "93", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Usa la fórmula 2^(n+1) - 3.",
     "explanation": "Fórmula: 2^(n+1)-3 (empieza en n=1): 2²-3=1, 2³-3=5... Siguiente término: 2⁷-3=125."
   },
@@ -319,7 +319,7 @@
       {"text": "343", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Eleva al cubo números naturales consecutivos.",
     "explanation": "Cubos perfectos: 1³=1, 2³=8... Siguiente término: 6³=216."
   },
@@ -331,7 +331,7 @@
       {"text": "36", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica cada número natural por su consecutivo.",
     "explanation": "Fórmula: n×(n+1) (empieza en n=1): 1×2=2, 2×3=6... Siguiente término: 6×7=42."
   },
@@ -343,7 +343,7 @@
       {"text": "65536", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "POTENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Eleva cada número natural a una potencia relacionada con su posición.",
     "explanation": "Fórmula: n^n (empieza en n=1): 1¹=1, 2²=4... Siguiente término: 6⁶=46656."
   },
@@ -355,7 +355,7 @@
       {"text": "25", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Suma números naturales consecutivos al término anterior.",
     "explanation": "Diferencias: +1, +2, +3, +4, +5... Siguiente término: 16+6=22."
   },
@@ -367,7 +367,7 @@
       {"text": "125", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "SECUENCIAS"],
+    "tags": ["GENERAL"],
     "hint": "Usa la fórmula 2^n - 1.",
     "explanation": "Fórmula: 2^n-1 (empieza en n=1): 2¹-1=1, 2²-1=3... Siguiente término: 2⁷-1=127."
   },
@@ -379,7 +379,7 @@
       {"text": "360", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
     ],
-    "tags": ["MATEMÁTICAS", "FACTORIALES"],
+    "tags": ["GENERAL"],
     "hint": "Multiplica cada término por un número en aumento.",
     "explanation": "Factoriales: 1!=1, 2!=2, 3!=6... Siguiente término: 6!=720."
   }
