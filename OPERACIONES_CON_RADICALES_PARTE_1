@@ -275,8 +275,8 @@
   {
     "question": "Simplifica 3√8 - √18 + √50",
     "options": [
-      {"text": "10√2", "correct": true},
-      {"text": "8√2", "correct": false},
+      {"text": "8√2", "correct": true},
+      {"text": "10√2", "correct": false},
       {"text": "√60", "correct": false},
       {"text": "6√2 - 3√2 + 5√2", "correct": false},
       {"text": "No puedo identificar la respuesta 😥", "correct": false}
