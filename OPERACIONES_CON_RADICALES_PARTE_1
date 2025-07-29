@@ -1,0 +1,834 @@
+[
+  {
+    "question": "Simplifica √12 + √27",
+    "options": [
+      {"text": "5√3", "correct": true},
+      {"text": "√39", "correct": false},
+      {"text": "13√3", "correct": false},
+      {"text": "3√6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Descompón los radicandos en factores cuadrados perfectos.",
+    "explanation": "√12 = 2√3 y √27 = 3√3. Al sumar: 2√3 + 3√3 = 5√3."
+  },
+  {
+    "question": "Calcula √8 × √2",
+    "options": [
+      {"text": "4", "correct": true},
+      {"text": "√10", "correct": false},
+      {"text": "4√2", "correct": false},
+      {"text": "√16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la propiedad del producto de raíces cuadradas.",
+    "explanation": "√8 × √2 = √(8×2) = √16 = 4."
+  },
+  {
+    "question": "Resuelve √50 - √18",
+    "options": [
+      {"text": "2√2", "correct": true},
+      {"text": "√32", "correct": false},
+      {"text": "4√2", "correct": false},
+      {"text": "5√2 - 3√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada radical antes de operar.",
+    "explanation": "√50 = 5√2 y √18 = 3√2. Entonces: 5√2 - 3√2 = 2√2."
+  },
+  {
+    "question": "Divide √75 / √3",
+    "options": [
+      {"text": "5", "correct": true},
+      {"text": "√25", "correct": false},
+      {"text": "5√3", "correct": false},
+      {"text": "√72", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Usa la propiedad de la división de raíces cuadradas.",
+    "explanation": "√75 / √3 = √(75/3) = √25 = 5."
+  },
+  {
+    "question": "Simplifica 3√2 + √8 - √18",
+    "options": [
+      {"text": "2√2", "correct": true},
+      {"text": "4√2", "correct": false},
+      {"text": "√12", "correct": false},
+      {"text": "3√2 + 2√2 - 3√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Expresa todos los términos con √2.",
+    "explanation": "√8 = 2√2 y √18 = 3√2. Entonces: 3√2 + 2√2 - 3√2 = 2√2."
+  },
+  {
+    "question": "Multiplica (√5)(√20)",
+    "options": [
+      {"text": "10", "correct": true},
+      {"text": "√100", "correct": false},
+      {"text": "2√5", "correct": false},
+      {"text": "5√4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina los radicandos bajo una misma raíz.",
+    "explanation": "(√5)(√20) = √(5×20) = √100 = 10."
+  },
+  {
+    "question": "Resta √45 - √20",
+    "options": [
+      {"text": "√5", "correct": true},
+      {"text": "√25", "correct": false},
+      {"text": "5√5", "correct": false},
+      {"text": "3√5 - 2√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada radical a su mínima expresión.",
+    "explanation": "√45 = 3√5 y √20 = 2√5. Entonces: 3√5 - 2√5 = √5."
+  },
+  {
+    "question": "Resuelve √27 + √12 - √3",
+    "options": [
+      {"text": "4√3", "correct": true},
+      {"text": "√36", "correct": false},
+      {"text": "6√3", "correct": false},
+      {"text": "3√3 + 2√3 - √3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los términos comparten el mismo radical después de simplificar.",
+    "explanation": "√27 = 3√3, √12 = 2√3. Entonces: 3√3 + 2√3 - √3 = 4√3."
+  },
+  {
+    "question": "Calcula (√6)(√24)",
+    "options": [
+      {"text": "12", "correct": true},
+      {"text": "√144", "correct": false},
+      {"text": "6√4", "correct": false},
+      {"text": "2√6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica los radicandos y simplifica el resultado.",
+    "explanation": "(√6)(√24) = √(6×24) = √144 = 12."
+  },
+  {
+    "question": "Simplifica 2√50 + √18 - √8",
+    "options": [
+      {"text": "11√2", "correct": true},
+      {"text": "9√2", "correct": false},
+      {"text": "√60", "correct": false},
+      {"text": "10√2 + 3√2 - 2√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reduce cada término a múltiplos de √2 antes de operar.",
+    "explanation": "2√50 = 2×5√2 = 10√2, √18 = 3√2, √8 = 2√2. Entonces: 10√2 + 3√2 - 2√2 = 11√2."
+  },
+  {
+    "question": "Divide √108 / √3",
+    "options": [
+      {"text": "6", "correct": true},
+      {"text": "√36", "correct": false},
+      {"text": "6√3", "correct": false},
+      {"text": "√105", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Aplica la división de raíces y simplifica el radicando resultante.",
+    "explanation": "√108 / √3 = √(108/3) = √36 = 6."
+  },
+  {
+    "question": "Resuelve √75 - √12 + √27",
+    "options": [
+      {"text": "6√3", "correct": true},
+      {"text": "√90", "correct": false},
+      {"text": "4√3", "correct": false},
+      {"text": "5√3 - 2√3 + 3√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los radicales pueden expresarse en términos de √3.",
+    "explanation": "√75 = 5√3, √12 = 2√3, √27 = 3√3. Entonces: 5√3 - 2√3 + 3√3 = 6√3."
+  },
+  {
+    "question": "Multiplica (√3)(√12)",
+    "options": [
+      {"text": "6", "correct": true},
+      {"text": "√36", "correct": false},
+      {"text": "3√4", "correct": false},
+      {"text": "√15", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina los radicandos y busca cuadrados perfectos.",
+    "explanation": "(√3)(√12) = √(3×12) = √36 = 6."
+  },
+  {
+    "question": "Simplifica 4√3 - √12 + √27",
+    "options": [
+      {"text": "5√3", "correct": true},
+      {"text": "3√3", "correct": false},
+      {"text": "√38", "correct": false},
+      {"text": "4√3 - 2√3 + 3√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica los radicales con factor 3 en el radicando.",
+    "explanation": "√12 = 2√3, √27 = 3√3. Entonces: 4√3 - 2√3 + 3√3 = 5√3."
+  },
+  {
+    "question": "Calcula √18 × √2",
+    "options": [
+      {"text": "6", "correct": true},
+      {"text": "√36", "correct": false},
+      {"text": "3√2", "correct": false},
+      {"text": "√20", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El producto de raíces cuadradas es la raíz del producto.",
+    "explanation": "√18 × √2 = √(18×2) = √36 = 6."
+  },
+  {
+    "question": "Resuelve √48 - √12 + √3",
+    "options": [
+      {"text": "3√3", "correct": true},
+      {"text": "√39", "correct": false},
+      {"text": "5√3", "correct": false},
+      {"text": "4√3 - 2√3 + √3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada término usando factores cuadrados.",
+    "explanation": "√48 = 4√3, √12 = 2√3. Entonces: 4√3 - 2√3 + √3 = 3√3."
+  },
+  {
+    "question": "Divide √200 / √2",
+    "options": [
+      {"text": "10", "correct": true},
+      {"text": "√100", "correct": false},
+      {"text": "10√2", "correct": false},
+      {"text": "√198", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide los radicandos y simplifica el resultado.",
+    "explanation": "√200 / √2 = √(200/2) = √100 = 10."
+  },
+  {
+    "question": "Simplifica √32 + √50 - √18",
+    "options": [
+      {"text": "7√2", "correct": true},
+      {"text": "√64", "correct": false},
+      {"text": "5√2", "correct": false},
+      {"text": "4√2 + 5√2 - 3√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los términos pueden expresarse en múltiplos de √2.",
+    "explanation": "√32 = 4√2, √50 = 5√2, √18 = 3√2. Entonces: 4√2 + 5√2 - 3√2 = 7√2."
+  },
+  {
+    "question": "Multiplica (√7)(√28)",
+    "options": [
+      {"text": "14", "correct": true},
+      {"text": "√196", "correct": false},
+      {"text": "7√4", "correct": false},
+      {"text": "2√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina los radicandos y busca el cuadrado perfecto.",
+    "explanation": "(√7)(√28) = √(7×28) = √196 = 14."
+  },
+  {
+    "question": "Resuelve √45 + √20 - √5",
+    "options": [
+      {"text": "4√5", "correct": true},
+      {"text": "√60", "correct": false},
+      {"text": "3√5", "correct": false},
+      {"text": "3√5 + 2√5 - √5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada radical a su forma en √5 antes de operar.",
+    "explanation": "√45 = 3√5, √20 = 2√5. Entonces: 3√5 + 2√5 - √5 = 4√5."
+  },
+  {
+    "question": "Calcula √63 / √7",
+    "options": [
+      {"text": "3", "correct": true},
+      {"text": "√9", "correct": false},
+      {"text": "3√7", "correct": false},
+      {"text": "√56", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide los radicandos y reduce la fracción resultante.",
+    "explanation": "√63 / √7 = √(63/7) = √9 = 3."
+  },
+  {
+    "question": "Simplifica 3√8 - √18 + √50",
+    "options": [
+      {"text": "10√2", "correct": true},
+      {"text": "8√2", "correct": false},
+      {"text": "√60", "correct": false},
+      {"text": "6√2 - 3√2 + 5√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Expresa cada término en función de √2 y opera.",
+    "explanation": "3√8 = 3×2√2 = 6√2, √18 = 3√2, √50 = 5√2. Entonces: 6√2 - 3√2 + 5√2 = 10√2."
+  },
+  {
+    "question": "Multiplica (√10)(√40)",
+    "options": [
+      {"text": "20", "correct": true},
+      {"text": "√400", "correct": false},
+      {"text": "10√4", "correct": false},
+      {"text": "4√10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica los radicandos y simplifica el cuadrado perfecto.",
+    "explanation": "(√10)(√40) = √(10×40) = √400 = 20."
+  },
+  {
+    "question": "Resuelve √75 - √27 + √12",
+    "options": [
+      {"text": "4√3", "correct": true},
+      {"text": "√60", "correct": false},
+      {"text": "6√3", "correct": false},
+      {"text": "5√3 - 3√3 + 2√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los términos pueden simplificarse con √3.",
+    "explanation": "√75 = 5√3, √27 = 3√3, √12 = 2√3. Entonces: 5√3 - 3√3 + 2√3 = 4√3."
+  },
+  {
+    "question": "Divide √98 / √2",
+    "options": [
+      {"text": "7", "correct": true},
+      {"text": "√49", "correct": false},
+      {"text": "7√2", "correct": false},
+      {"text": "√96", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide los radicandos y simplifica el resultado.",
+    "explanation": "√98 / √2 = √(98/2) = √49 = 7."
+  },
+  {
+    "question": "Simplifica 2√12 + 3√27 - √48",
+    "options": [
+      {"text": "11√3", "correct": true},
+      {"text": "√87", "correct": false},
+      {"text": "9√3", "correct": false},
+      {"text": "4√3 + 9√3 - 4√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada término en función de √3 antes de operar.",
+    "explanation": "2√12 = 4√3, 3√27 = 9√3, √48 = 4√3. Entonces: 4√3 + 9√3 - 4√3 = 11√3."
+  },
+  {
+    "question": "Calcula (√15)(√60)",
+    "options": [
+      {"text": "30", "correct": true},
+      {"text": "√900", "correct": false},
+      {"text": "15√4", "correct": false},
+      {"text": "3√10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica los radicandos y busca el cuadrado perfecto.",
+    "explanation": "(√15)(√60) = √(15×60) = √900 = 30."
+  },
+  {
+    "question": "Resuelve √200 - √50 + √8",
+    "options": [
+      {"text": "9√2", "correct": true},
+      {"text": "√158", "correct": false},
+      {"text": "7√2", "correct": false},
+      {"text": "10√2 - 5√2 + 2√2", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Todos los términos se simplifican a múltiplos de √2.",
+    "explanation": "√200 = 10√2, √50 = 5√2, √8 = 2√2. Entonces: 10√2 - 5√2 + 2√2 = 9√2."
+  },
+  {
+    "question": "Divide √72 / √2",
+    "options": [
+      {"text": "6", "correct": true},
+      {"text": "√36", "correct": false},
+      {"text": "6√2", "correct": false},
+      {"text": "√70", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide los radicandos y simplifica la expresión resultante.",
+    "explanation": "√72 / √2 = √(72/2) = √36 = 6."
+  },
+  {
+    "question": "Simplifica 5√3 - √12 + 2√27",
+    "options": [
+      {"text": "9√3", "correct": true},
+      {"text": "√75", "correct": false},
+      {"text": "7√3", "correct": false},
+      {"text": "5√3 - 2√3 + 6√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reduce todos los términos a expresiones con √3.",
+    "explanation": "√12 = 2√3, 2√27 = 6√3. Entonces: 5√3 - 2√3 + 6√3 = 9√3."
+  },
+  {
+    "question": "Multiplica (√2)(√32)",
+    "options": [
+      {"text": "8", "correct": true},
+      {"text": "√64", "correct": false},
+      {"text": "4√2", "correct": false},
+      {"text": "√34", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Combina los radicandos y simplifica el cuadrado perfecto.",
+    "explanation": "(√2)(√32) = √(2×32) = √64 = 8."
+  },
+  {
+    "question": "Resuelve √125 - √45 + √5",
+    "options": [
+      {"text": "3√5", "correct": true},
+      {"text": "√85", "correct": false},
+      {"text": "5√5", "correct": false},
+      {"text": "5√5 - 3√5 + √5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica cada término usando factores de 5 en el radicando.",
+    "explanation": "√125 = 5√5, √45 = 3√5. Entonces: 5√5 - 3√5 + √5 = 3√5."
+  },
+  {
+    "question": "Racionaliza y simplifica: 30/(4√2)",
+    "options": [
+      {"text": "15√2/4", "correct": true},
+      {"text": "30√2/8", "correct": false},
+      {"text": "15/√2", "correct": false},
+      {"text": "30√2/4", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica por la raíz del denominador",
+    "explanation": "Multiplicando numerador y denominador por √2: (30√2)/(4·2) = 30√2/8 = 15√2/4"
+  },
+  {
+    "question": "Racionaliza y simplifica: 12/√3",
+    "options": [
+      {"text": "4√3", "correct": true},
+      {"text": "12√3/3", "correct": false},
+      {"text": "4/√3", "correct": false},
+      {"text": "√36", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Elimina la raíz del denominador",
+    "explanation": "Multiplicando por √3: (12√3)/3 = 4√3"
+  },
+  {
+    "question": "Racionaliza: 8/(2√2)",
+    "options": [
+      {"text": "2√2", "correct": true},
+      {"text": "8√2/4", "correct": false},
+      {"text": "4/√2", "correct": false},
+      {"text": "√16", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica antes de racionalizar",
+    "explanation": "Simplificando: 4/√2 → multiplicando por √2: (4√2)/2 = 2√2"
+  },
+  {
+    "question": "Racionaliza: 18/(3√2)",
+    "options": [
+      {"text": "3√2", "correct": true},
+      {"text": "18√2/6", "correct": false},
+      {"text": "6/√2", "correct": false},
+      {"text": "√36", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica coeficientes primero",
+    "explanation": "Simplificando: 6/√2 → multiplicando por √2: (6√2)/2 = 3√2"
+  },
+  {
+    "question": "Racionaliza: 25/(5√5)",
+    "options": [
+      {"text": "√5", "correct": true},
+      {"text": "25√5/25", "correct": false},
+      {"text": "5/√5", "correct": false},
+      {"text": "5√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica antes de operar",
+    "explanation": "Simplificando: 5/√5 → multiplicando por √5: (5√5)/5 = √5"
+  },
+  {
+    "question": "Racionaliza y simplifica: 14/(2√7)",
+    "options": [
+      {"text": "√7", "correct": true},
+      {"text": "14√7/14", "correct": false},
+      {"text": "7/√7", "correct": false},
+      {"text": "7√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide coeficientes antes de racionalizar",
+    "explanation": "Simplificando: 7/√7 → multiplicando por √7: (7√7)/7 = √7"
+  },
+  {
+    "question": "Racionaliza: 9/(3√3)",
+    "options": [
+      {"text": "√3", "correct": true},
+      {"text": "9√3/9", "correct": false},
+      {"text": "3/√3", "correct": false},
+      {"text": "3√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplificación previa necesaria",
+    "explanation": "Simplificando: 3/√3 → multiplicando por √3: (3√3)/3 = √3"
+  },
+  {
+    "question": "Racionaliza y simplifica: 20/(4√5)",
+    "options": [
+      {"text": "√5", "correct": true},
+      {"text": "20√5/20", "correct": false},
+      {"text": "5/√5", "correct": false},
+      {"text": "5√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica la fracción primero",
+    "explanation": "Simplificando: 5/√5 → multiplicando por √5: (5√5)/5 = √5"
+  },
+  {
+    "question": "Racionaliza: 16/√8",
+    "options": [
+      {"text": "4√2", "correct": true},
+      {"text": "16√8/8", "correct": false},
+      {"text": "8√2", "correct": false},
+      {"text": "√128", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica la raíz primero",
+    "explanation": "√8 = 2√2 → 16/(2√2) = 8/√2 → multiplicando por √2: (8√2)/2 = 4√2"
+  },
+  {
+    "question": "Racionaliza y simplifica: 27/(3√3)",
+    "options": [
+      {"text": "3√3", "correct": true},
+      {"text": "27√3/9", "correct": false},
+      {"text": "9/√3", "correct": false},
+      {"text": "√81", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide y luego racionaliza",
+    "explanation": "Simplificando: 9/√3 → multiplicando por √3: (9√3)/3 = 3√3"
+  },
+  {
+    "question": "Racionaliza: 10/√5",
+    "options": [
+      {"text": "2√5", "correct": true},
+      {"text": "10√5/5", "correct": false},
+      {"text": "√50", "correct": false},
+      {"text": "5/√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica por la raíz del denominador",
+    "explanation": "Multiplicando por √5: (10√5)/5 = 2√5"
+  },
+  {
+    "question": "Racionaliza y simplifica: 24/(4√6)",
+    "options": [
+      {"text": "√6", "correct": true},
+      {"text": "24√6/24", "correct": false},
+      {"text": "6/√6", "correct": false},
+      {"text": "6√6", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica coeficientes primero",
+    "explanation": "Simplificando: 6/√6 → multiplicando por √6: (6√6)/6 = √6"
+  },
+  {
+    "question": "Racionaliza: 15/(3√5)",
+    "options": [
+      {"text": "√5", "correct": true},
+      {"text": "15√5/15", "correct": false},
+      {"text": "5/√5", "correct": false},
+      {"text": "5√5", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide antes de racionalizar",
+    "explanation": "Simplificando: 5/√5 → multiplicando por √5: (5√5)/5 = √5"
+  },
+  {
+    "question": "Racionaliza y simplifica: 28/(4√7)",
+    "options": [
+      {"text": "√7", "correct": true},
+      {"text": "28√7/28", "correct": false},
+      {"text": "7/√7", "correct": false},
+      {"text": "7√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica la fracción primero",
+    "explanation": "Simplificando: 7/√7 → multiplicando por √7: (7√7)/7 = √7"
+  },
+  {
+    "question": "Racionaliza: 32/√8",
+    "options": [
+      {"text": "8√2", "correct": true},
+      {"text": "32√8/8", "correct": false},
+      {"text": "16√2", "correct": false},
+      {"text": "√512", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica el radical del denominador",
+    "explanation": "√8 = 2√2 → 32/(2√2) = 16/√2 → multiplicando por √2: (16√2)/2 = 8√2"
+  },
+  {
+    "question": "Racionaliza y simplifica: 36/(6√3)",
+    "options": [
+      {"text": "2√3", "correct": true},
+      {"text": "36√3/18", "correct": false},
+      {"text": "6/√3", "correct": false},
+      {"text": "√108", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica antes de racionalizar",
+    "explanation": "Simplificando: 6/√3 → multiplicando por √3: (6√3)/3 = 2√3"
+  },
+  {
+    "question": "Racionaliza: 21/(3√7)",
+    "options": [
+      {"text": "√7", "correct": true},
+      {"text": "21√7/21", "correct": false},
+      {"text": "7/√7", "correct": false},
+      {"text": "7√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide coeficientes primero",
+    "explanation": "Simplificando: 7/√7 → multiplicando por √7: (7√7)/7 = √7"
+  },
+  {
+    "question": "Racionaliza y simplifica: 40/(5√8)",
+    "options": [
+      {"text": "2√2", "correct": true},
+      {"text": "40√8/40", "correct": false},
+      {"text": "8/√8", "correct": false},
+      {"text": "√32", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica el denominador primero",
+    "explanation": "√8 = 2√2 → 40/(5·2√2) = 40/(10√2) = 4/√2 → multiplicando por √2: (4√2)/2 = 2√2"
+  },
+  {
+    "question": "Racionaliza: 48/√12",
+    "options": [
+      {"text": "8√3", "correct": true},
+      {"text": "48√12/12", "correct": false},
+      {"text": "16√3", "correct": false},
+      {"text": "√576", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reduce el radical del denominador",
+    "explanation": "√12 = 2√3 → 48/(2√3) = 24/√3 → multiplicando por √3: (24√3)/3 = 8√3"
+  },
+  {
+    "question": "Racionaliza y simplifica: 22/(2√11)",
+    "options": [
+      {"text": "√11", "correct": true},
+      {"text": "22√11/22", "correct": false},
+      {"text": "11/√11", "correct": false},
+      {"text": "11√11", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica la fracción primero",
+    "explanation": "Simplificando: 11/√11 → multiplicando por √11: (11√11)/11 = √11"
+  },
+  {
+    "question": "Racionaliza: 54/(6√3)",
+    "options": [
+      {"text": "3√3", "correct": true},
+      {"text": "54√3/18", "correct": false},
+      {"text": "9/√3", "correct": false},
+      {"text": "√243", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide y luego racionaliza",
+    "explanation": "Simplificando: 9/√3 → multiplicando por √3: (9√3)/3 = 3√3"
+  },
+  {
+    "question": "Racionaliza y simplifica: 26/(2√13)",
+    "options": [
+      {"text": "√13", "correct": true},
+      {"text": "26√13/26", "correct": false},
+      {"text": "13/√13", "correct": false},
+      {"text": "13√13", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica coeficientes primero",
+    "explanation": "Simplificando: 13/√13 → multiplicando por √13: (13√13)/13 = √13"
+  },
+  {
+    "question": "Racionaliza: 60/√15",
+    "options": [
+      {"text": "4√15", "correct": true},
+      {"text": "60√15/15", "correct": false},
+      {"text": "√900", "correct": false},
+      {"text": "20√3", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica por la raíz del denominador",
+    "explanation": "Multiplicando por √15: (60√15)/15 = 4√15"
+  },
+  {
+    "question": "Racionaliza y simplifica: 35/(5√7)",
+    "options": [
+      {"text": "√7", "correct": true},
+      {"text": "35√7/35", "correct": false},
+      {"text": "7/√7", "correct": false},
+      {"text": "7√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica antes de operar",
+    "explanation": "Simplificando: 7/√7 → multiplicando por √7: (7√7)/7 = √7"
+  },
+  {
+    "question": "Racionaliza: 72/√18",
+    "options": [
+      {"text": "12√2", "correct": true},
+      {"text": "72√18/18", "correct": false},
+      {"text": "24√3", "correct": false},
+      {"text": "√2592", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica el denominador primero",
+    "explanation": "√18 = 3√2 → 72/(3√2) = 24/√2 → multiplicando por √2: (24√2)/2 = 12√2"
+  },
+  {
+    "question": "Racionaliza y simplifica: 42/(6√7)",
+    "options": [
+      {"text": "√7", "correct": true},
+      {"text": "42√7/42", "correct": false},
+      {"text": "7/√7", "correct": false},
+      {"text": "7√7", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide coeficientes primero",
+    "explanation": "Simplificando: 7/√7 → multiplicando por √7: (7√7)/7 = √7"
+  },
+  {
+    "question": "Racionaliza: 64/√16",
+    "options": [
+      {"text": "16", "correct": true},
+      {"text": "64√16/16", "correct": false},
+      {"text": "4", "correct": false},
+      {"text": "√4096", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "El denominador es un cuadrado perfecto",
+    "explanation": "√16 = 4 → 64/4 = 16 (no requiere racionalización)"
+  },
+  {
+    "question": "Racionaliza y simplifica: 50/(5√10)",
+    "options": [
+      {"text": "√10", "correct": true},
+      {"text": "50√10/50", "correct": false},
+      {"text": "10/√10", "correct": false},
+      {"text": "10√10", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica la fracción primero",
+    "explanation": "Simplificando: 10/√10 → multiplicando por √10: (10√10)/10 = √10"
+  },
+  {
+    "question": "Racionaliza: 80/√20",
+    "options": [
+      {"text": "8√5", "correct": true},
+      {"text": "80√20/20", "correct": false},
+      {"text": "16√5", "correct": false},
+      {"text": "√3200", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Reduce el radical del denominador",
+    "explanation": "√20 = 2√5 → 80/(2√5) = 40/√5 → multiplicando por √5: (40√5)/5 = 8√5"
+  },
+  {
+    "question": "Racionaliza y simplifica: 33/(3√11)",
+    "options": [
+      {"text": "√11", "correct": true},
+      {"text": "33√11/33", "correct": false},
+      {"text": "11/√11", "correct": false},
+      {"text": "11√11", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Divide coeficientes antes de racionalizar",
+    "explanation": "Simplificando: 11/√11 → multiplicando por √11: (11√11)/11 = √11"
+  },
+  {
+    "question": "Racionaliza: 90/√30",
+    "options": [
+      {"text": "3√30", "correct": true},
+      {"text": "90√30/30", "correct": false},
+      {"text": "9√10", "correct": false},
+      {"text": "√2700", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Multiplica por la raíz del denominador",
+    "explanation": "Multiplicando por √30: (90√30)/30 = 3√30"
+  },
+  {
+    "question": "Racionaliza y simplifica: 39/(3√13)",
+    "options": [
+      {"text": "√13", "correct": true},
+      {"text": "39√13/39", "correct": false},
+      {"text": "13/√13", "correct": false},
+      {"text": "13√13", "correct": false},
+      {"text": "No puedo identificar la respuesta 😥", "correct": false}
+    ],
+    "tags": ["GENERAL"],
+    "hint": "Simplifica antes de operar",
+    "explanation": "Simplificando: 13/√13 → multiplicando por √13: (13√13)/13 = √13"
+  }
+]
